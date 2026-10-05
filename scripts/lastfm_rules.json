@@ -1,5 +1,5 @@
 {
-  "_说明": "Last.fm 听歌记录整理规则配置文件。脚本每次处理时从本文件读取；新增/修改条目直接编辑即可，无需改代码。字段：blacklist_artists=按歌手剔除（片段匹配）；filter_keywords=按关键词剔除；solo_alias=同人异名合并；feat_map=主创 feat. 演唱；amp_map=并列合作 & 合并；no_split=含分隔符但不可拆的组合名；title_suffix=曲名须省略的版本/风格括注；artist_by_song=按歌修正歌手（规范化后按『歌手|曲名』匹配）；title_by_song=按歌修正曲名；blacklist_tracks=按『歌手|曲名』整条剔除；extra_rules=附加规则开关。",
+  "_说明": "Last.fm 听歌记录整理规则配置文件。脚本每次处理时从本文件读取；新增/修改条目直接编辑即可，无需改代码。字段：blacklist_artists=按歌手剔除（片段匹配）；filter_keywords=按关键词剔除；solo_alias=同人异名合并；feat_map=主创 feat. 演唱；amp_map=并列合作 & 合并；no_split=含分隔符但不可拆的组合名；title_suffix=曲名须省略的版本/风格括注；artist_by_song=按歌修正歌手（规范化后按『歌手|曲名』匹配）；title_by_song=按歌修正曲名；blacklist_tracks=按『歌手|曲名』整条剔除；extra_rules=附加规则开关；genre_rules=周记风格分布标签清洗。",
 
   "blacklist_artists": [
     "小陈在农村", "柏年说", "内部看美国", "太阳星sunstar", "成都坊屋宗介", "肝帝董佳宁",
@@ -211,6 +211,29 @@
     "vocaloid_no_footnote": true,
     "unverifiable_collab_fallback_amp": true,
     "album_2plus_to_miucho_list": true
+  },
+
+  "genre_rules": {
+    "_说明": "周记『风格分布』用 artist.gettoptags 标签清洗：genre_drop=非风格词剔除（地名/国籍、人名/艺人、活动/垃圾标签、人声/乐器/属性标签、拼写错误、厂牌标签）；子类风格词不合并（j-pop/JPop/jrock 各自独立，J-rock/rock 各自独立，k-pop/Kpop 各自独立，cpop/C-pop 各自独立）。",
+    "genre_drop": [
+      "90s", "Asian", "Asian Pop", "Austria", "BMS", "California", "China",
+      "DSP Entertainment", "Doujin music", "Female Voices", "Hong Kong", "Italy",
+      "Korean", "Norway", "Polyester", "RIP", "Steve Barakatt", "Sweden",
+      "The human League", "USA", "Una voce per San Marino 2023 semi finalists",
+      "United Kingdom", "United States", "Upcoming Concerts", "X Japan",
+      "YORUSHIKA", "a", "ambien", "american", "amsterdam", "armenian roots",
+      "asian music", "australia", "australian", "belgian", "beloved", "british",
+      "chinese", "concerts i have been to", "cover", "detroit", "deutsch",
+      "duran duran", "eisblume", "electtonic", "england", "enya",
+      "female vocalist", "female vocalists", "german", "girlsbandcry", "guitar",
+      "harcore", "investigate", "irish", "italian", "japan", "japanese",
+      "japanese soundcloud", "kamitsubaki", "kara", "kgrl", "koszalin",
+      "lesser known yet streamable artists", "los angeles", "male vocalists",
+      "my top songs", "napoli", "napolijoe", "netherlands", "norwegian",
+      "omar akram", "osu", "poland", "relax", "relaxing", "seiyuu", "sinsekai",
+      "south korea", "swedish", "taishi", "the netherlands", "voice actress",
+      "vsinger", "weird things you should like"
+    ]
   },
 
   "output_format": {
