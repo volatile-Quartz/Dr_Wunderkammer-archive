@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:32:45.759259+00:00",
+  "generated_at": "2026-10-07T07:27:08.536238+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -59,10 +59,10 @@
       "path": "my-diary/Diary-2026/00_index.md",
       "title": "「Diary」2026",
       "label": "my-diary/Diary-2026",
-      "word_count": 891,
+      "word_count": 895,
       "image_count": 0,
-      "file_size": 5802,
-      "sha256_short": "271211f10c71c2ae"
+      "file_size": 5826,
+      "sha256_short": "446dea68840b8406"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -83,13 +83,13 @@
       "sha256_short": "a0316c66501043ad"
     },
     {
-      "path": "my-diary/Diary-2026/03_第3周（2026.01.12-2026.01.18）巴纳姆效应.md",
-      "title": "第3周（2026.01.12-2026.01.18）巴纳姆效应",
+      "path": "my-diary/Diary-2026/03_第3周（2026.01.12-2026.01.18）冷读法与巴纳姆效应.md",
+      "title": "第3周（2026.01.12-2026.01.18）冷读法与巴纳姆效应",
       "label": "my-diary/Diary-2026",
-      "word_count": 1968,
+      "word_count": 3175,
       "image_count": 2,
-      "file_size": 7448,
-      "sha256_short": "77439440bc97be16"
+      "file_size": 11219,
+      "sha256_short": "dd528711d4cbf644"
     },
     {
       "path": "my-diary/Diary-2026/04_第4周（2026.01.19-2026.01.25）竹取物语与辉夜姬.md",
@@ -494,7 +494,7 @@
       "word_count": 1220,
       "image_count": 0,
       "file_size": 7956,
-      "sha256_short": "5d8286695d77da80"
+      "sha256_short": "7995398ac5a8aaa2"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -545,10 +545,10 @@
       "path": "my-diary/Diary-2025/06_第6周（2025.02.03-2025.02.09）科里奥利力.md",
       "title": "第6周（2025.02.03-2025.02.09）科里奥利力",
       "label": "my-diary/Diary-2025",
-      "word_count": 1546,
+      "word_count": 1281,
       "image_count": 0,
-      "file_size": 4771,
-      "sha256_short": "138b3366cc44023e"
+      "file_size": 3989,
+      "sha256_short": "ef32df27cf03935b"
     },
     {
       "path": "my-diary/Diary-2025/07_第7周（2025.02.10-2025.02.16）傅科摆.md",
@@ -878,10 +878,10 @@
       "path": "my-diary/Diary-2025/43_第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树、落叶乔木.md",
       "title": "第43周（2025.10.20-2025.10.26）哈夫曼树与芬威克树、落叶乔木",
       "label": "my-diary/Diary-2025",
-      "word_count": 3603,
+      "word_count": 3524,
       "image_count": 0,
-      "file_size": 11645,
-      "sha256_short": "8620e646d9165041"
+      "file_size": 11494,
+      "sha256_short": "1da5844e2dc197e7"
     },
     {
       "path": "my-diary/Diary-2025/44_第44周（2025.10.27-2025.11.02）.md",
