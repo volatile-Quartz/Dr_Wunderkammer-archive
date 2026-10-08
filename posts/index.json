@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:27:08.536238+00:00",
+  "generated_at": "2026-10-08T15:17:38.795441+00:00",
   "entries": [
     {
       "path": "the-lore/About-Calculations/00_index.md",
@@ -8,7 +8,7 @@
       "word_count": 63,
       "image_count": 0,
       "file_size": 345,
-      "sha256_short": "cab302bee81548db"
+      "sha256_short": "7805bf517f9e1b9f"
     },
     {
       "path": "the-lore/About-Diary/00_index.md",
@@ -17,7 +17,7 @@
       "word_count": 74,
       "image_count": 0,
       "file_size": 405,
-      "sha256_short": "4ef1fbaf1154e5f8"
+      "sha256_short": "be60e86a02f231c0"
     },
     {
       "path": "the-lore/About-Diary/01_人物设定.md",
@@ -35,7 +35,7 @@
       "word_count": 90,
       "image_count": 0,
       "file_size": 502,
-      "sha256_short": "b7c90304e1e2a59a"
+      "sha256_short": "816fd033cd513703"
     },
     {
       "path": "my-diary/Diary-2002-2003/01_2002（壬午）.md",
@@ -61,8 +61,8 @@
       "label": "my-diary/Diary-2026",
       "word_count": 895,
       "image_count": 0,
-      "file_size": 5826,
-      "sha256_short": "446dea68840b8406"
+      "file_size": 5827,
+      "sha256_short": "b2bc41f2a61a7b01"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦、恩培多克勒四根说.md",
@@ -410,19 +410,19 @@
       "path": "my-diary/Diary-2026/39_第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论.md",
       "title": "第40周（2026.09.28-2026.10.04）布雷顿森林体系与特里芬悖论",
       "label": "my-diary/Diary-2026",
-      "word_count": 5669,
+      "word_count": 5711,
       "image_count": 0,
-      "file_size": 25072,
-      "sha256_short": "f435dba28422a9c2"
+      "file_size": 25240,
+      "sha256_short": "5365902b9076d7be"
     },
     {
       "path": "my-diary/Diary-2026/40_第41周（2026.10.05-2026.10.11）.md",
       "title": "第41周（2026.10.05-2026.10.11）",
       "label": "my-diary/Diary-2026",
-      "word_count": 13,
+      "word_count": 142,
       "image_count": 0,
-      "file_size": 53,
-      "sha256_short": "0876f8244dfbe92e"
+      "file_size": 511,
+      "sha256_short": "e2922e8a99023d82"
     },
     {
       "path": "my-diary/Diary-2022/00_index.md",
@@ -431,7 +431,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "44dbe9b485f0e82d"
+      "sha256_short": "a22da850af401f38"
     },
     {
       "path": "my-diary/Diary-2020/00_index.md",
@@ -440,7 +440,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "0fe2374396c947a0"
+      "sha256_short": "03ef1838155d31ce"
     },
     {
       "path": "my-diary/Diary-2023/00_index.md",
@@ -449,7 +449,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "3553dad2ba516f9b"
+      "sha256_short": "c5685dc70ab1e278"
     },
     {
       "path": "my-diary/Diary-2021/00_index.md",
@@ -458,7 +458,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "9091a97c277174c2"
+      "sha256_short": "9de836a2581233fe"
     },
     {
       "path": "my-diary/Diary-2024/00_index.md",
@@ -467,7 +467,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "796b58ed07a95690"
+      "sha256_short": "96681793cd6255a9"
     },
     {
       "path": "my-diary/Diary-2016/00_index.md",
@@ -476,7 +476,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "35855da0b048f01e"
+      "sha256_short": "4f86affb5bca4904"
     },
     {
       "path": "my-diary/Diary-2015/00_index.md",
@@ -485,7 +485,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "f452b354e8ab6458"
+      "sha256_short": "d7238b1d097fccfe"
     },
     {
       "path": "my-diary/Diary-2025/00_index.md",
@@ -494,7 +494,7 @@
       "word_count": 1220,
       "image_count": 0,
       "file_size": 7956,
-      "sha256_short": "7995398ac5a8aaa2"
+      "sha256_short": "d429731129febd16"
     },
     {
       "path": "my-diary/Diary-2025/01_第1周（2024.12.30-2025.01.05）儒略历与格里高利历.md",
@@ -545,19 +545,19 @@
       "path": "my-diary/Diary-2025/06_第6周（2025.02.03-2025.02.09）科里奥利力.md",
       "title": "第6周（2025.02.03-2025.02.09）科里奥利力",
       "label": "my-diary/Diary-2025",
-      "word_count": 1281,
+      "word_count": 1295,
       "image_count": 0,
-      "file_size": 3989,
-      "sha256_short": "ef32df27cf03935b"
+      "file_size": 4025,
+      "sha256_short": "affb4bef6d6df66c"
     },
     {
       "path": "my-diary/Diary-2025/07_第7周（2025.02.10-2025.02.16）傅科摆.md",
       "title": "第7周（2025.02.10-2025.02.16）傅科摆",
       "label": "my-diary/Diary-2025",
-      "word_count": 1146,
+      "word_count": 1040,
       "image_count": 0,
-      "file_size": 3593,
-      "sha256_short": "42bbde792f6bffa9"
+      "file_size": 3272,
+      "sha256_short": "9ed86eb131feb242"
     },
     {
       "path": "my-diary/Diary-2025/08_第8周（2025.02.17-2025.02.23）.md",
@@ -1007,7 +1007,7 @@
       "word_count": 90,
       "image_count": 0,
       "file_size": 502,
-      "sha256_short": "92bc3a97248eea76"
+      "sha256_short": "61e1f3bbb1d53f00"
     },
     {
       "path": "my-diary/Diary-2006-2007/01_2006（丙戌）.md",
@@ -1034,7 +1034,7 @@
       "word_count": 137,
       "image_count": 0,
       "file_size": 812,
-      "sha256_short": "cf462421a3e67dca"
+      "sha256_short": "6a43ed489769a7e7"
     },
     {
       "path": "my-diary/Diary-2019/01_1月、2月、3月、4月（2019.01.01 - 2019.04.30）.md",
@@ -1106,7 +1106,7 @@
       "word_count": 65,
       "image_count": 0,
       "file_size": 344,
-      "sha256_short": "26df14f4d3986bde"
+      "sha256_short": "b78171a4539ca3c7"
     },
     {
       "path": "my-diary/Diary-2017-2018/00_index.md",
@@ -1115,7 +1115,7 @@
       "word_count": 66,
       "image_count": 0,
       "file_size": 349,
-      "sha256_short": "d97453df21ae1401"
+      "sha256_short": "55b9ef7edf2ada03"
     }
   ],
   "total_files": 124
